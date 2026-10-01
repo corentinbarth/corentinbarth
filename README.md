@@ -10,7 +10,7 @@ Passionate about bridging hardware and software, with a strong focus on bare-met
 
 ### 🚀 Hands-On Projects
 
-*   **[Dual-MCU POV Display Architecture](#https://github.com/corentinbarth/esp32_hmi_gateway)**  
+*   **[Dual-MCU POV Display Architecture](https://github.com/corentinbarth/esp32_hmi_gateway)**  
     Designed a web-based control interface with a dual-MCU architecture (ESP32 / STM32) for real-time image processing and custom Persistence of Vision (POV) display rendering.
 *   **[Smart Irrigation IoT Node](#link-to-repo-when-ready)**  
     Prototyped an automated solenoid valve control system driven by rainfall, humidity, and temperature sensors. Built the IoT architecture using wireless communication between an ESP32 (client) and a Raspberry Pi (broker) via the MQTT protocol.
